@@ -1,0 +1,4 @@
+int64 day
+int64 month
+---
+string message
